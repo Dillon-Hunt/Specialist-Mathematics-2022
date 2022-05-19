@@ -1,2 +1,2 @@
 # Maths
-Deciphering Code For Specilist Mathematics Assigment
+Deciphering Code For Specialist Mathematics Assigment
