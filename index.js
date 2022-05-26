@@ -40,7 +40,7 @@ NEW = math.matrix([
 complete = false
 
 // Constraints
-const MAX_VALUE = 26
+const MAX_VALUE = 25
 const MIN_VALUE = 0
 const INCREMENT = 1
 
